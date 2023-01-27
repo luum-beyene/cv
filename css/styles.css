@@ -1,3 +1,14 @@
-body{
-    background-color: blue;
+h1{
+    color:red;
+    font-size: 200px;
 }
+
+img{
+    background-color: rgb(255, 8, 0);
+    
+}
+
+.broccoli{
+    background-color: aqua;
+}
+
